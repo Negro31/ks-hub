@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "msg": "Erişim kapalı",
+  "enabled": false,
+  "msg": "Bakimda",
   "keys": {
     "910bbf7535e0f51dc2c8d27d5f2814d719d8c27d36a4e80958a633111977b2d9": {
       "id": "k1",
