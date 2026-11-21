@@ -1,5 +1,13 @@
 {
   "enabled": true,
   "msg": "Erişim kapalı",
-  "keys": {}
+  "keys": {
+    "54d24c6bf523f885d40d52295f2c5ef6e8c3da736d4d813b5690917904e2ae2e": {
+      "id": "k1",
+      "label": "Kürt",
+      "exp": 0,
+      "revoked": false,
+      "uid": 3877407817
+    }
+  }
 }
