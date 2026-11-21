@@ -6,7 +6,7 @@
       "id": "k1",
       "label": "ci-test",
       "exp": 1795272590,
-      "revoked": false,
+      "revoked": true,
       "uid": 0
     }
   }
