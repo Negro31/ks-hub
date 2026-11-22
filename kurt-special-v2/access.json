@@ -2,13 +2,6 @@
   "enabled": true,
   "msg": "Erişim kapalı",
   "keys": {
-    "54d24c6bf523f885d40d52295f2c5ef6e8c3da736d4d813b5690917904e2ae2e": {
-      "id": "k1",
-      "label": "Kürt",
-      "exp": 0,
-      "revoked": false,
-      "uid": 3877407817
-    },
     "1d40451008a8179380169b833f2342edad079a858443e4a6e8f5f89c655446be": {
       "id": "k2",
       "label": "deneme",
